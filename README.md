@@ -1,6 +1,6 @@
 # Fashion MNIST Classification with CNN
 
-This project demonstrates how to build and train a Convolutional Neural Network (CNN) to classify images in the Fashion MNIST dataset. The dataset consists of 28x28 grayscale images of 10 different types of clothing items.
+This project demonstrates how to build and train a CNN to classify images in the Fashion MNIST dataset. The dataset consists of 28x28 grayscale images of 10 different types of clothing items.
 
 <p align="center">
   <img src="https://github.com/malasiaa/mnist_fashion_CNN/assets/144847430/f1098f17-a52c-4b33-b548-bd83e6f91d19">
