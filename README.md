@@ -6,7 +6,14 @@ This project demonstrates how to build and train a CNN to classify images in the
   <img src="https://github.com/malasiaa/mnist_fashion_CNN/assets/144847430/f1098f17-a52c-4b33-b548-bd83e6f91d19">
 </p>
 
-## Project Structure
+## Project Structure  
+
+1. **Setup dependencies**
+2. **Load and preprocess the dataset**
+3. **Build and compile the model**
+4. **Prediction**
+
+## Repository Documents
 
 - `CNN_fashion_mnist.ipynb`: Notebook containing the code for building, training, and evaluating the CNN model.
 - `fashion_mnist_model_v2.keras`: Saved model file.
@@ -17,8 +24,7 @@ This project demonstrates how to build and train a CNN to classify images in the
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/malasiaa/mnist_fashion_CNN
-   cd mnist_fashion_CNN
+   git clone https://github.com/malasiaa/mnist_fashion_CNN.git
    ```
 2. **Create a virtual environment:**
    
@@ -31,9 +37,4 @@ This project demonstrates how to build and train a CNN to classify images in the
    ```bash
    pip install -r requirements.txt
    ```
-## Project Structure  
 
-1. **Setup dependencies**
-2. **Load and preprocess the dataset**
-3. **Build and compile the model**
-4. **Prediction**
